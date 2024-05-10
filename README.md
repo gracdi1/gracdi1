@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Gracie Diabo (she/her)
 
+Welcome to my GitHub!
 <!--
 **gracdi1/gracdi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
