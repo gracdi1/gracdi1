@@ -44,11 +44,11 @@ I’d love to connect and chat about projects, ideas, and new technologies!
 
 ### [CodeJam14 - Personify](https://github.com/gracdi1/CodeJam14)
 **Tech Stack**: Python, React, Vite, TypeScript, CSS, Flask, OpenAI API, Spotify Web API, & Figma
-A web app where you can log into your Spotify account and get a summary of your personality based on your top songs!  
+- A web app where you can log into your Spotify account and get a summary of your personality based on your top songs!  
 
 ### [ConUHacksVIII - Deadly Byte](https://github.com/justinbax/conuhacks)
 **Tech Stack**: C++ & SDL library
-A 2D platformer interactive zombie game - Beenox challenge
+- A 2D platformer interactive zombie game - Beenox challenge
 
 ---
 
