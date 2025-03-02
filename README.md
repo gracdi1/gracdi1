@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gracie Diabo (she/her)
 
-I'm a **Software Engineering Co-op Student** at McGill University and currently looking for **Summer 2025 Internship Opportunities**!
+I'm a **Software Engineering Co-op Student** at McGill University!
 
 I'm passionate about using technology to empower underrepresented communities and believe that software has the power to create meaningful and inclusive solutions that make a difference. I’m committed to continuous learning and love exploring new technologies to address complex challenges. Collaboration is at my core, and I thrive when I can work alongside others to turn  ideas into impactful projects. My journey reflects my dedication to growth, adaptability, and creating tools that uplift and inspire.
 
