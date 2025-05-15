@@ -7,7 +7,7 @@ I'm passionate about using technology to empower underrepresented communities an
 ---
 
 ## 🌟 About Me
-- 🎓 I’m a second-year U2 student at McGill in Montreal, QC, Canada.
+- 🎓 I’m an incoming third-year (U3) student at McGill in Montreal, QC, Canada.
 - ✨ I'm fascinated by Indigenous languages, AI/data ethics, urban planning & its history.
 -  🇨🇦 I speak native English and intermediate French (along with beginner Mohawk & Spanish!)
 - ⚡ In my free time, I enjoy pilates, running, and weight lifting.
@@ -15,7 +15,6 @@ I'm passionate about using technology to empower underrepresented communities an
 I’d love to connect and chat about projects, ideas, and new technologies!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gracie-diabo/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdiabo17@gmail.com)
 
 ---
 
@@ -23,6 +22,7 @@ I’d love to connect and chat about projects, ideas, and new technologies!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,19 +36,30 @@ I’d love to connect and chat about projects, ideas, and new technologies!
 ---
 
 ## 🎯 Current Goals
--  Learning more about AI/ML, SQL & PostgreSQL, and Web Development through online Udemy courses outside school.
+-  Learning AI and ML fundamentals in the AI4Good Lab at MILA (the Quebec AI institute!)
 
 ---
 
 ## 🛠️ Featured Projects
 
-### [CodeJam14 - Personify](https://github.com/gracdi1/CodeJam14)
-**Tech Stack**: Python, React, Vite, TypeScript, CSS, Flask, OpenAI API, Spotify Web API, & Figma
-- A web app where you can log into your Spotify account and get a summary of your personality based on your top songs!  
+### 🎧 [CodeJam14 – Personify](https://github.com/gracdi1/CodeJam14)  
+**Tech Stack**: React, Vite, TypeScript, CSS, Flask, Python, OpenAI API, Spotify Web API, Figma  
+- Built a web app that connects to Spotify and uses your top songs to generate a personality profile via OpenAI’s GPT model.  
+- Designed responsive UI in Figma and handled custom OAuth integration with Spotify.
 
-### [ConUHacksVIII - Deadly Byte](https://github.com/justinbax/conuhacks)
-**Tech Stack**: C++ & SDL library
-- A 2D platformer interactive zombie game - Beenox challenge
+---
+
+### 📚 [Boardroom – Game Rental & Event App](https://github.com/McGill-ECSE321-Winter2025/project-group-17)  
+**Tech Stack**: Java, Spring Boot, PostgreSQL, React, TypeScript  
+- Full-stack web app for renting board games and hosting events; built in a 7-person Agile team.  
+- Implemented login flow, homepage features, and service-level integration tests.
+
+---
+
+### ✏️ [CoolSupplies – School Supply Manager](https://github.com/F2024-ECSE223/ecse223-group-project-p7)  
+**Tech Stack**: Java, JavaFX, Umple, JUnit, Cucumber  
+- Designed and built a modular Java desktop app to streamline school supply workflows.  
+- Applied MVC architecture and integrated automated test suites for 95%+ coverage.
 
 ---
 
