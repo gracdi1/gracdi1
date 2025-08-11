@@ -2,12 +2,16 @@
 
 I'm a **Software Engineering Co-op Student** at McGill University!
 
-I'm passionate about using technology to empower underrepresented communities and believe that software has the power to create meaningful and inclusive solutions that make a difference. I’m committed to continuous learning and love exploring new technologies to address complex challenges. Collaboration is at my core, and I thrive when I can work alongside others to turn  ideas into impactful projects. My journey reflects my dedication to growth, adaptability, and creating tools that uplift and inspire.
+I'm passionate about using technology to empower underrepresented communities and believe that software has the power to create meaningful and inclusive solutions that make a difference. 
+
+I’m committed to learning and staying curious. I don't just want to know the what. I want to learn why and how? Why this way and not another? How is this different and how can it be improved? 
+
+Collaboration is at my core, and I thrive when I can work alongside others to turn  ideas into impactful projects. My journey reflects my dedication to growth, adaptability, and creating tools that uplift and inspire.
 
 ---
 
 ## 🌟 About Me
-- 🎓 I’m an incoming third-year (U3) student at McGill in Montreal, QC, Canada.
+- 🎓 I’m a third-year (U3) student at McGill in Montreal, QC, Canada.
 - ✨ I'm fascinated by Indigenous languages, AI/data ethics, urban planning & its history.
 -  🇨🇦 I speak native English and intermediate French (along with beginner Mohawk & Spanish!)
 - ⚡ In my free time, I enjoy pilates, running, and weight lifting.
@@ -36,7 +40,7 @@ I’d love to connect and chat about projects, ideas, and new technologies!
 ---
 
 ## 🎯 Current Goals
--  Learning AI and ML fundamentals in the AI4Good Lab at MILA (the Quebec AI institute!)
+-  Working on my personal website and completing my internship in full-stack development at CGI!
 
 ---
 
