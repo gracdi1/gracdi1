@@ -13,9 +13,10 @@ Collaboration is at my core, and I thrive when I can work alongside others to tu
 ## 🌟 About Me
 - 🎓 I’m a third-year (U3) student at McGill in Montreal, QC, Canada.
 - ✨ I'm fascinated by Indigenous languages, AI/data ethics, urban planning & its history.
+- 💗 Outside of software, I'm also the Co-President of [POWE](https://powe.mcgilleus.ca/), McGill's Women in Engineering Club, and a National Student Rep for [AISES](https://aises.org/student-representatives/)!
 -  🇨🇦 I speak native English and intermediate French (along with beginner Mohawk & Spanish!)
 - ⚡ In my free time, I enjoy pilates, running, and weight lifting.
-
+  
 I’d love to connect and chat about projects, ideas, and new technologies! 
 
 ### Let's Connect on [LinkedIn](https://linkedin.com/in/gracie-diabo/)! <a href="https://linkedin.com/in/gracie-diabo/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="vertical-align:middle;"/></a>
@@ -97,7 +98,10 @@ I’d love to connect and chat about projects, ideas, and new technologies!
   *React, Node.js, Express, MongoDB* – Interactive web app for mapping and filtering women’s shelters and resources, built as part of McHacks 12.
 
 - **BrickPi Autonomous Robot**  
-  *Python, BrickPi, Matplotlib* – LEGO Brick-Pi powered robot to autonomously navigate a map, collect objects, and return to start. Built for ECSE 211 - Design Principles and Methods.
+  *Python, BrickPi, Matplotlib* – LEGO Brick-Pi powered robot to autonomously navigate a map, collect objects, and return to start. 
+
+- **[Deadly Byte](https://github.com/justinbax/conuhacks)**  
+  *C++, 2D Platformer Game* – A 2D zombie-based platforming game inspired by the Beenox-sponsored challenge during ConUHacks VIII with a team of 4. My first Hackathon!
 
 ---
 
