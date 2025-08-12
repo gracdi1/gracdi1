@@ -4,7 +4,7 @@ I'm a **Software Engineering Co-op Student** at McGill University!
 
 I'm passionate about using technology to empower underrepresented communities and believe that software has the power to create meaningful and inclusive solutions that make a difference. 
 
-I’m committed to learning and staying curious. I don't just want to know the what. I want to learn why and how? Why this way and not another? How is this different and how can it be improved? 
+I’m committed to learning and staying curious. I don't just want to know the what. I want to learn why and how? Why this way and not another? How is this different, and how can it be improved? 
 
 Collaboration is at my core, and I thrive when I can work alongside others to turn  ideas into impactful projects. My journey reflects my dedication to growth, adaptability, and creating tools that uplift and inspire.
 
@@ -117,6 +117,19 @@ I’d love to connect and chat about projects, ideas, and new technologies!
 
 ---
 
-## Thanks for stopping by! 😊👩🏽‍💻
+## That's it for now! 😁
+```java
+public class SignOff {
+    public static void main(String[] args) {
+        sayThanks();
+    }
+
+    static void sayThanks() {
+        String message = "Thanks for stopping by! 😊👩🏽‍💻";
+        System.out.println(message);
+    }
+}
+```
+
 
 
