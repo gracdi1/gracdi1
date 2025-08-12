@@ -117,9 +117,6 @@ I’d love to connect and chat about projects, ideas, and new technologies!
 
 ---
 
-## 💬 Let's Connect!
-I’m always open to chatting about:
-- Collaboration on exciting projects.
-- Learning new tools and technologies.
-- Anything tech-related, or even just life and hobbies!
+## Thanks for stopping by! 😊👩🏽‍💻
+
 
