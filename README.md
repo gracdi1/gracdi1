@@ -45,7 +45,8 @@ I’d love to connect and chat about projects, ideas, and new technologies!
 
 ## 🎯 Current Goals
 -  Building my personal website.
--  Completing my internship in full-stack development at CGI!
+-  Landing a Summer 2026 Internship!
+-  Creating a consistent workout routine.
 
 ---
 
